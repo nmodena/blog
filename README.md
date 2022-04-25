@@ -1,7 +1,8 @@
 # blog
-support files from blog.modena.to
+support files from http://blog.modena.to
 
-and  repository for presentation that I did
+
+# presentation 
 
 2016 : INTOG2 : "VXLAN with EVPN Control-Plane for L2 and L3 distribuited architecture" 
 2020 : ITNOG_on_the_WEB5 : "Switch as a Border Router" large scale FIB selective install to use standard switch as internet routers
